@@ -12,11 +12,12 @@
 
 ## General Information
 - As a data scientist at a home electronics company which manufactures state of the art smart televisions. You want to develop a cool feature in the smart-TV that can recognize five different gestures performed by the user which will help users control the TV without using a remote.
-		1.Thumbs up:  Increase the volume
-		2.Thumbs down: Decrease the volume
-		3.Left swipe: 'Jump' backwards 10 seconds
-		4.Right swipe: 'Jump' forward 10 seconds  
-		5.Stop: Pause the movie
+    
+    	1. Thumbs up:  Increase the volume
+    	2. Thumbs down: Decrease the volume
+    	3. Left swipe: 'Jump' backwards 10 seconds
+    	4. Right swipe: 'Jump' forward 10 seconds  
+    	5. Stop: Pause the movie
 
 
 
@@ -24,6 +25,9 @@
 
 ## Conclusions
 - The Model built with InceptionV3, Time Distributed, Conv2D and GRU gave better results compared to all the other models and also the model has very least number of parameters compared few best performing models.
+- Due to the file size limitations I can't upload final model weights here. Following is the link to download the weights.
+https://drive.google.com/file/d/1hJnA_XImZ_Hfc2JssKH-wlrRDphmQwjW/view?usp=sharing
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
