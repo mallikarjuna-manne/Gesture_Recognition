@@ -34,8 +34,9 @@ https://drive.google.com/file/d/1hJnA_XImZ_Hfc2JssKH-wlrRDphmQwjW/view?usp=shari
 
 ## Technologies Used
 - python - version 3.8.3
-- TensorFlow - version 2.8.2
 - opencv-python - version 4.5.5.64
+- TensorFlow
+- Keras
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
